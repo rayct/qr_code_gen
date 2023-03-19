@@ -1,0 +1,6 @@
+# mac hidden files
+vscode
+.DS_Store
+
+# env, venv directorys
+qr_code_generator_venv
